@@ -16,7 +16,7 @@ Tableau ScreenShot
 
 ### Breach Count by Year Python 
 
-Screenshot of code and output
+![BreachCountbyYear](images/BreachCountbyYear.png)
 
 ### Breach Count by Year Tableau
 
@@ -41,7 +41,7 @@ These findings suggest that hacking and unauthorized access are becoming increas
 
 ### Total Affected per Year Python
 
-Screenshot of code and output
+![TotalAffectedperYear](images/TotalAffectedperYear.png)
 
 ### Total Affected per Year Tableau
 
@@ -57,7 +57,8 @@ The top one percent of data breaches alone account for a majority of all indvidu
 
 ### Map of Breaches vs. Affected Python
 
-Screenshot of code and output
+![MapBreachesvsAffected](images/MapBreachesvsAffected.png)
+
 
 ### Map of Breaches vs. Affected Tableau
 
@@ -71,7 +72,7 @@ This interactive map is exploring the geographic dimension of breach incidents, 
 
 ### Entity Type Breakhdown by Year Python
 
-Screenshot of code and output
+![TypeBreakdown](images/TypeBreakdown.png)
 
 ### Entity Type Breakdown by Year Tableau
 
@@ -87,7 +88,7 @@ A chi-square test was run to assess whether the distribution of entity types cha
 
 ### Top 10 Harmful Breaches Python
 
-Screenshot of code and output
+![Top10Harmful](images/Top10Harmful.png)
 
 ### Top 10 Harmful Breaches Tableau
 
