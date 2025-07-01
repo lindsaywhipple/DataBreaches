@@ -1,10 +1,8 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-from scipy.stats import chi2_contingency
+from scipy.stats import chi2_contingency, zscore, mannwhitneyu
 from statsmodels.stats.proportion import proportions_ztest
-from scipy.stats import zscore
-from scipy.stats import mannwhitneyu
 
 
 #======================
