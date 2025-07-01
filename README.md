@@ -21,7 +21,7 @@ List some of the key findings from this analysis
 
 ### Breach Count by Year Tableau
 
-Actual chart or screenshot, link to tableau 
+![BreachesbyType](images/BreachesbyType.png)
 
 ### Breach Count by Year Analysis
 Between 2023 and 2025, there was significant fluctuation in the number of reported healthcare data breaches. In 2023, 100 breaches were reported, in 2024, this number almost quadrupled reaching 396 breaches (a 296% increase) before declining to 294 in 2025 (25.8% decrease). Despite this drop, breach levels in 2025 were almost triple as high as in 2023. 
@@ -46,7 +46,7 @@ These findings suggest that hacking and unauthorized access are becoming increas
 
 ### Total Affected per Year Tableau
 
-Actual chart or screenshot, link to tableau 
+![TotalAffected](images/TotalAffected.png)
 
 ### Total Affected per Year Analysis
 
@@ -63,7 +63,7 @@ The top one percent of data breaches alone account for a majority of all indvidu
 
 ### Map of Breaches vs. Affected Tableau
 
-Actual chart or screenshot, link to tableau
+![Map](images/Map.png)
 
 ### Map of Breaches vs. Affected Analysis 
 
@@ -77,7 +77,7 @@ This interactive map is exploring the geographic dimension of breach incidents, 
 
 ### Entity Type Breakdown by Year Tableau
 
-Actual chart or screenshot, link to tableau
+![BreachedEntityType](images/BreachedEntityType.png)
 
 ### Entity Type Breakdown by Year Analysis 
 
@@ -93,7 +93,7 @@ A chi-square test was run to assess whether the distribution of entity types cha
 
 ### Top 10 Harmful Breaches Tableau
 
-Actual chart or screenshot, link to tableau
+![Top10](images/Top10.png)
 
 ### Top 10 Harmful Breaches Analysis 
 
