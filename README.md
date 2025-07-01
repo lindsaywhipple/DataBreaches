@@ -9,7 +9,7 @@ List some of the key findings from this analysis
 
 ## Tableau Dashboard 
 
-[Explore the Interactive Dashboard on Tableau Public!](https://public.tableau.com/views/USHealthcareDatabreachesVisualizations/Dashboard2)
+[Explore the Interactive Dashboard on Tableau Public!]([https://public.tableau.com/views/USHealthcareDatabreachesVisualizations/Dashboard2](https://public.tableau.com/app/profile/lindsay.whipple/viz/USHealthcareDatabreachVisualizations/Dashboard2))
 
 
 ## Python Analysis
