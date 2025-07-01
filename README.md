@@ -8,8 +8,9 @@ This project analyzes healthcare-related data breaches in the U.S. from 2023 to 
 List some of the key findings from this analysis
 
 ## Tableau Dashboard 
-Link to the public Tableau interactive dashboard 
-Tableau ScreenShot
+
+[Explore the Interactive Dashboard on Tableau Public!](https://public.tableau.com/views/USHealthcareDatabreachesVisualizations/Dashboard2)
+
 
 ## Python Analysis
 ## 1. Breach Count by Year 
