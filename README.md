@@ -8,15 +8,15 @@ This project analyzes healthcare-related data breaches in the U.S. from 2023 to 
 This analysis of U.S. Healthcare data breaches from 2023 to 2025 uncovers several critical trends shaping the cybersecurity landscape in the healthcare sector. 
 - ### Massive Surge in Breaches:
 
-- Dominance of Hacking Incidents:
+- ### Dominance of Hacking Incidents:
 
-- Disproportionate Impact:
+- ### Disproportionate Impact:
 
-- Geographic Disparities:
+- ### Geographic Disparities:
 
-- Consistent Entity Vulnerability:
+- ### Consistent Entity Vulnerability:
 
-- Systemic Infrastructure Risk:
+- ### Systemic Infrastructure Risk:
 
 
 These insights paint a vivid picture of an evolving threat landscape where breach frequency and impact are increasingly driven by sophisticated, infrastructure-targeted attacks.  
