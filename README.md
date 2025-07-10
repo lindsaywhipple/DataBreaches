@@ -114,3 +114,6 @@ A chi-square test was run to assess whether the distribution of entity types cha
 Here, I am highlighting the most impactful breaches by number of indviduals affected, offering insight into their characteristics, severity, and systemic patterns. There appears to be a disproportional impact where just ten breaches account for nearly 77% of all indviduals affected, showing the extreme skew of breach severity. A Mann-Whitney U test confirms a statistically significant difference (U = 7800.0, p < 0.0001), meaning the top ten breaches are significantly more severe than the rest. Eight out of ten breaches were due to Hacking/IT Incidents and ten out of ten were targeted at Network Servers, indicating a vulnerability in network infrastructure and highlights the importance of modernizing server security practices.
 
 
+## Conclusion
+
+
